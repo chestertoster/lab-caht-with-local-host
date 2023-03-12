@@ -1,0 +1,11 @@
+C:\Users\nik-b\Desktop\gfdgfdgd\FankorDNSTest\FankorClient\bin\Debug\FankorClient.exe.config
+C:\Users\nik-b\Desktop\gfdgfdgd\FankorDNSTest\FankorClient\bin\Debug\FankorClient.exe
+C:\Users\nik-b\Desktop\gfdgfdgd\FankorDNSTest\FankorClient\bin\Debug\FankorClient.pdb
+C:\Users\nik-b\Desktop\gfdgfdgd\FankorDNSTest\FankorClient\obj\Debug\FankorServer.csproj.AssemblyReference.cache
+C:\Users\nik-b\Desktop\gfdgfdgd\FankorDNSTest\FankorClient\obj\Debug\FankorServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\nik-b\Desktop\gfdgfdgd\FankorDNSTest\FankorClient\obj\Debug\FankorClient.Form1.resources
+C:\Users\nik-b\Desktop\gfdgfdgd\FankorDNSTest\FankorClient\obj\Debug\FankorClient.Properties.Resources.resources
+C:\Users\nik-b\Desktop\gfdgfdgd\FankorDNSTest\FankorClient\obj\Debug\FankorServer.csproj.GenerateResource.cache
+C:\Users\nik-b\Desktop\gfdgfdgd\FankorDNSTest\FankorClient\obj\Debug\FankorServer.csproj.CoreCompileInputs.cache
+C:\Users\nik-b\Desktop\gfdgfdgd\FankorDNSTest\FankorClient\obj\Debug\FankorClient.exe
+C:\Users\nik-b\Desktop\gfdgfdgd\FankorDNSTest\FankorClient\obj\Debug\FankorClient.pdb
